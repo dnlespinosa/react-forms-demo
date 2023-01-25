@@ -1,0 +1,15 @@
+Goals 
+    Build forms with react 
+    Understand what controlled components are 
+
+One Source of Truth 
+    We make the react state by the single source of Truth
+    React controls 
+        what is shown 
+        What happens the user types 
+    Input elements controlled in this way are called controlled components 
+
+How The controlled form works 
+    Since value attribute is set on the element, displayed value will always be that 
+    Since handlechange runs on every keystrong, the displayed value will update as the user types 
+    
